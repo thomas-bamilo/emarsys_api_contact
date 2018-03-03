@@ -1,1 +1,1 @@
-setwd('C:/Projects/Marketing/DP-UserAutomation/emarsys_api_contact/') 
+setwd('D:/Projects/3_Marketing/emarsys_api_contact/') 
