@@ -10,5 +10,6 @@ access.yaml
 R_log.txt
 nodejs/config.json
 nodejs/node_modules/
+*/test/
 
 
